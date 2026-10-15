@@ -58,9 +58,9 @@ offers:
       terms_authority_entity_id: ent_01m4ywh6e35ey4vn8mm3adxaaw
       access_operator_entity_id: ent_01m4ywh6e35ey4vn8mm3adxaaw
     access:
-      availability: public
+      availability: membership
       method: form
-      url: https://www.fathom.ai/qualified-portfolio-partners
+      url: https://fathomvideo.typeform.com/to/tLb1WMVu
     source_ids:
       - src_9f9de47fce01a07a203918237462b9f58624fa56eed78640ef4493a741335e66
       - src_8b72d5043a553291f5f4ba0ea43165b213adb73f2ed133f6677e06dacd326cb8
